@@ -1,0 +1,101 @@
+{
+"Meal":  [
+{
+"name": "Chicken Alfredo",
+"description": "Creamy cheesy chicken fettuccine alfredo with garlic, and tender chicken for a classic Italian meal", 
+"ingredients": "Chicken, fettuccine noodles, heavy cream, garlic, and butter",
+"calories": 410,
+"prep_time": 15,
+"cook_time": 35,
+"cuisine": "Italian",
+"skill_level": "Easy",
+"picture": "add",
+"url": "https://www.jessicagavin.com/chicken-alfredo/"
+},
+{
+"name": "Chicken Curry",
+"description": "Japanese curry is a popular in Japan. It is versatile that you can make it with any protein you like.",
+"ingredients": "Chicken, rice, olive oil, apple, potato, carrot, and onion",
+"calories": 500,
+"prep_time": 10,
+"cook_time": 20,
+"cuisine": "Japanese",
+"skill_level": "Easy",
+"picture": "add",
+"url": "https://www.chopstickchronicles.com/japanese-curry-rice/"
+},
+{
+"name": "Pizza",
+"description": "Homemade pizza is delight. Made with love using different toppings based on your mood to enjoy.",
+"ingredients": "Water, dry yeast, flour, olive oil, cheese, and tomato sauce",
+"calories": 560,
+"prep_time": 35,
+"cook_time": 30,
+"cuisine": "Italian",
+"skill_level": "Intermediate",
+"picture": "fix",
+"url": "https://tasty.co/recipe/pizza-dough"
+},
+{
+"name": "Shrimp Tacos",
+"description": "Shrimp tacos made with yummy shrimp, lime, avocado and a spicy sauce.",
+"ingredients": "Water, dry yeast, flour, olive oil, cheese, and tomato sauce",
+"calories": 560,
+"prep_time": 35,
+"cook_time": 30,
+"cuisine": "Italian",
+"skill_level": "Intermediate",
+"picture": "fix",
+"url": "https://www.gimmesomeoven.com/shrimp-tacos-recipe/"
+},
+{
+"name": "Chicken Pot Pie",
+"description": "Chicken pot pie is loaded with flavor. It has flaky pie crust, a creamy filling, chicken, a mix of frozen vegetables and fresh herbs",
+"ingredients": "Pie crust, chicken, chicken broth, milk, and vegetables",
+"calories": 320,
+"prep_time": 20,
+"cook_time": 40,
+"cuisine": "American",
+"skill_level": "Hard",
+"picture": "fix",
+"url": "https: //www.pillsbury.com/recipes/classic-chicken-pot-pie/1401d418-ac0b-4b50-ad09-c6f1243fb992"
+},
+{
+"name": "Pad Thai",
+"description": "Pad Thai is a popular Thai street food. It consists of rice noodles, a protein, peanuts, a scrambled egg and bean sprouts.",
+"ingredients": "Noodles, egg, peanuts, lime, soy sauce, chicken, and green onion",
+"calories": 580,
+"prep_time": 15,
+"cook_time": 15,
+"cuisine": "Thai",
+"skill_level": "Intermediate",
+"picture": "fix",
+"url": "https: //tastesbetterfromscratch.com/pad-thai/"
+},
+{
+"name": "Turkey Pesto Panini",
+"description": "Fresh bread with melted cheese, fresh turkey slices and tomatoes topped with fresh homemade pesto.",
+"ingredients": "Turkey breast, bread, basil, mozzarella, tomato, and garlic",
+"calories": 430,
+"prep_time": 15,
+"cook_time": 5,
+"cuisine": "American",
+"skill_level": "Easy",
+"picture": "fix",
+"url": "https: //www.delish.com/cooking/recipe-ideas/recipes/a46640/turkey-mozzarella-kale-pesto-panini-recipe/"
+},
+{
+"name": "Baked Salmon",
+"description": "Baked Salmon made with  tender salmon loaded with garlic butter sauce! Baked along with your favorite veggies.",
+"ingredients": "Salmon fillets, potatoes. lemon juice, butter, and garlic",
+"calories": 220,
+"prep_time": 10,
+"cook_time": 25,
+"cuisine": "Asian",
+"skill_level": "Intermediate",
+"picture": "fix",
+"url": "https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/"
+}
+],
+"Status":  "OK"
+}
