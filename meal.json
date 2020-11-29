@@ -8,9 +8,9 @@
 "prep_time": 15,
 "cook_time": 35,
 "cuisine": "Italian",
-"skill_level": "Easy",
-"picture": "add",
-"url": "https://www.jessicagavin.com/chicken-alfredo/"
+"skill_level": "Easy"
+"picture": "https://github.com/rusul-0/IT315/blob/main/fettuccine.jpg",
+"url": https: //www.jessicagavin.com/chicken-alfredo/
 },
 {
 "name": "Chicken Curry",
@@ -21,8 +21,8 @@
 "cook_time": 20,
 "cuisine": "Japanese",
 "skill_level": "Easy",
-"picture": "add",
-"url": "https://www.chopstickchronicles.com/japanese-curry-rice/"
+"picture": "https://github.com/rusul-0/IT315/blob/main/curry.jpeg",
+"url": "https: //www.chopstickchronicles.com/japanese-curry-rice/"
 },
 {
 "name": "Pizza",
@@ -33,8 +33,8 @@
 "cook_time": 30,
 "cuisine": "Italian",
 "skill_level": "Intermediate",
-"picture": "fix",
-"url": "https://tasty.co/recipe/pizza-dough"
+"picture": "https://github.com/rusul-0/IT315/blob/main/pizza.jpg",
+"url": "https: //tasty.co/recipe/pizza-dough"
 },
 {
 "name": "Shrimp Tacos",
@@ -45,11 +45,11 @@
 "cook_time": 30,
 "cuisine": "Italian",
 "skill_level": "Intermediate",
-"picture": "fix",
-"url": "https://www.gimmesomeoven.com/shrimp-tacos-recipe/"
+"picture": "https://github.com/rusul-0/IT315/blob/main/tacos.jpg",
+"url": https: //www.gimmesomeoven.com/shrimp-tacos-recipe/
 },
 {
-"name": "Chicken Pot Pie",
+"name: "Chicken Pot Pie",
 "description": "Chicken pot pie is loaded with flavor. It has flaky pie crust, a creamy filling, chicken, a mix of frozen vegetables and fresh herbs",
 "ingredients": "Pie crust, chicken, chicken broth, milk, and vegetables",
 "calories": 320,
@@ -57,7 +57,7 @@
 "cook_time": 40,
 "cuisine": "American",
 "skill_level": "Hard",
-"picture": "fix",
+"picture": "https://github.com/rusul-0/IT315/blob/main/potpie.jpg",
 "url": "https: //www.pillsbury.com/recipes/classic-chicken-pot-pie/1401d418-ac0b-4b50-ad09-c6f1243fb992"
 },
 {
@@ -69,7 +69,7 @@
 "cook_time": 15,
 "cuisine": "Thai",
 "skill_level": "Intermediate",
-"picture": "fix",
+"picture": "https://github.com/rusul-0/IT315/blob/main/padthai.jpg",
 "url": "https: //tastesbetterfromscratch.com/pad-thai/"
 },
 {
@@ -81,7 +81,7 @@
 "cook_time": 5,
 "cuisine": "American",
 "skill_level": "Easy",
-"picture": "fix",
+"picture": "https://github.com/rusul-0/IT315/blob/main/pesto.jpg",
 "url": "https: //www.delish.com/cooking/recipe-ideas/recipes/a46640/turkey-mozzarella-kale-pesto-panini-recipe/"
 },
 {
@@ -93,8 +93,8 @@
 "cook_time": 25,
 "cuisine": "Asian",
 "skill_level": "Intermediate",
-"picture": "fix",
-"url": "https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/"
+"picture": "https://github.com/rusul-0/IT315/blob/main/salmon.jpg",
+"url": "https: //cafedelites.com/sheet-pan-garlic-butter-baked-salmon/"
 }
 ],
 "Status":  "OK"
