@@ -9,7 +9,7 @@
 "cook_time": "35 mintues",
 "cuisine": "Italian",
 "skill_level": "Easy",
-"picture": "https://github.com/rusul-0/IT315/blob/main/fettuccine.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/fettuccine.jpg",
 "url": "https: //www.jessicagavin.com/chicken-alfredo/"
 },
 {
@@ -21,7 +21,7 @@
 "cook_time": "20 mintues",
 "cuisine": "Japanese",
 "skill_level": "Easy",
-"picture": "https://github.com/rusul-0/IT315/blob/main/curry.jpeg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/curry.jpeg",
 "url": "https: //www.chopstickchronicles.com/japanese-curry-rice/"
 },
 {
@@ -33,7 +33,7 @@
 "cook_time": "30 mintues",
 "cuisine": "Italian",
 "skill_level": "Intermediate",
-"picture": "https://github.com/rusul-0/IT315/blob/main/pizza.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/pizza.jpg",
 "url": "https: //tasty.co/recipe/pizza-dough"
 },
 {
@@ -45,7 +45,7 @@
 "cook_time": "30 mintues",
 "cuisine": "Mexican",
 "skill_level": "Intermediate",
-"picture": "https://github.com/rusul-0/IT315/blob/main/tacos.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/tacos.jpg",
 "url": "https: //www.gimmesomeoven.com/shrimp-tacos-recipe/"
 },
 {
@@ -57,7 +57,7 @@
 "cook_time": "40 mintues",
 "cuisine": "American",
 "skill_level": "Hard",
-"picture": "https://github.com/rusul-0/IT315/blob/main/potpie.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/potpie.jpg",
 "url": "https: //www.pillsbury.com/recipes/classic-chicken-pot-pie/1401d418-ac0b-4b50-ad09-c6f1243fb992"
 },
 {
@@ -69,7 +69,7 @@
 "cook_time": "15 mintues",
 "cuisine": "Thai",
 "skill_level": "Intermediate",
-"picture": "https://github.com/rusul-0/IT315/blob/main/padthai.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/padthai.jpg",
 "url": "https: //tastesbetterfromscratch.com/pad-thai/"
 },
 {
@@ -81,7 +81,7 @@
 "cook_time": "5 mintues",
 "cuisine": "American",
 "skill_level": "Easy",
-"picture": "https://github.com/rusul-0/IT315/blob/main/pesto.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/pesto.jpg",
 "url": "https: //www.delish.com/cooking/recipe-ideas/recipes/a46640/turkey-mozzarella-kale-pesto-panini-recipe/"
 },
 {
@@ -93,7 +93,7 @@
 "cook_time": "25 mintues",
 "cuisine": "Asian",
 "skill_level": "Intermediate",
-"picture": "https://github.com/rusul-0/IT315/blob/main/salmon.jpg",
+"picture": "https://raw.githubusercontent.com/rusul-0/IT315/main/salmon.jpg",
 "url": "https: //cafedelites.com/sheet-pan-garlic-butter-baked-salmon/"
 }
 ],
